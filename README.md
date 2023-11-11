@@ -2,7 +2,7 @@
 
 # Projet de Prédiction de la Qualité du Vin
 Ce projet propose une analyse complète de la prédiction de la qualité du vin à l'aide de notebook. 
-Le notebooks sont divisés en quatre grandes sections : Introduction, Exploration et Visualisation des Données, Modélisation, et Prédiction.
+Le notebook est divisé en quatre grandes sections : Introduction, Exploration et Visualisation des Données, Modélisation, et Prédiction.
 chacune étant cruciale pour comprendre et exécuter le code de manière cohérente.
     
 ### Comment exécuter le code
