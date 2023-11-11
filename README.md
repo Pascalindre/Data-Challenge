@@ -19,7 +19,7 @@ Il est recommandé d'exécuter le code dans l'ordre séquentiel suivant :
     - Avant d'exécuter, assurez-vous de modifier la première ligne de code pour spécifier le répertoire où se trouvent les données de test ou de validation.
 
 ### Remarques supplémentaires
-Veillez à respecter l'ordre d'exécution pour garantir le bon déroulement du projet. Assurez-vous également d'avoir toutes les dépendances nécessaires installées avant de lancer les notebooks.
+Veillez à respecter l'ordre d'exécution pour garantir le bon déroulement du projet. Assurez-vous également d'avoir toutes les dépendances nécessaires installées avant de lancer le notebook.
 
 
 
