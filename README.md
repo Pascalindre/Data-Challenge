@@ -18,13 +18,17 @@ Il est recommandé d'exécuter le code dans l'ordre séquentiel suivant :
 4. **Prédiction:**
     - Avant d'exécuter, assurez-vous de modifier la première ligne de code pour spécifier le répertoire où se trouvent les données de test ou de validation.
 
+
+# Projet de Classification d'objets celestes
+
+1. **Importation des données:**
+    - Avant d'exécuter, assurez-vous de modifier l'argument de la fonction 'read_csv' pour spécifier le répertoire où se trouvent les données.
+
+2. **Prédictions:** L'exportation des résultats sur les données d'entrainement à l'aide de la fonction 'to_csv' a été faite après chaque modèle
+3. la librairie lightgbm a été intallée au moment du gradient boosting 
+
 ### Remarques supplémentaires
-Veillez à respecter l'ordre d'exécution pour garantir le bon déroulement du projet. Assurez-vous également d'avoir toutes les dépendances nécessaires installées avant de lancer le notebook.
-
-
-
-
-
+Veillez à respecter l'ordre d'exécution pour garantir le bon déroulement des projets. Assurez-vous également d'avoir toutes les dépendances nécessaires installées avant de lancer le notebook.
 
 
 
